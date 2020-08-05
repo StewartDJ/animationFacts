@@ -1,0 +1,78 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+body {
+background-size: cover;
+  background-image: url(https://media.istockphoto.com/vectors/sunlight-abstract-background-powder-orange-color-burst-background-vector-id1167521339?k=6&m=1167521339&s=612x612&w=0&h=sX-7Aeu4P0-41IC5tYld1ucrLMfFOqij1-b-95n9Iyk=)
+
+}
+
+h1 {
+  color: white;
+  text-shadow: 5px 5px 10px black;
+}
+
+#wrapper {
+ /* width: 30%;
+  float: left;*/
+  padding: 3px 10px 20px 20px;
+  margin: 0px;
+  box-shadow: 10px 10px 30px;
+  background-color: black;
+  border-radius: 10px; 
+}
+
+#twelve {
+  
+text-align: center;
+margin: 20px;
+}
+
+img {
+width: 400px;  
+align-content: center;
+}
+
+#principles{
+  
+  width: 92%;
+  padding: 3px 10px 20px 20px;
+  margin: 20px;
+  box-shadow: 10px 10px 30px;
+  background-color: white;
+  border-radius: 10px;
+  
+}
+
+
+a:link {
+  text-decoration: none;
+  color: white;
+  font-weight: 800;
+}
+
+a:visited {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+  color: red;
+  
+}
