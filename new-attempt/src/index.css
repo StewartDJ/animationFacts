@@ -26,12 +26,20 @@ h1 {
 #wrapper {
  /* width: 30%;
   float: left;*/
-  padding: 3px 10px 20px 20px;
-  margin: 0px;
+  width: 80vw;
+  padding: 10px 10px 20px 20px;
+  margin: auto auto;
   box-shadow: 10px 10px 30px;
   background-color: black;
   border-radius: 10px; 
 }
+
+h4 {
+  color: red;
+  font-size: x-large;
+  /*text-transform: uppercase;*/
+}
+
 
 #twelve {
   
@@ -46,9 +54,9 @@ align-content: center;
 
 #principles{
   
-  width: 92%;
-  padding: 3px 10px 20px 20px;
-  margin: 20px;
+  width: 80vw;
+  padding: 10px 10px 20px 20px;
+  margin: auto auto;
   box-shadow: 10px 10px 30px;
   background-color: white;
   border-radius: 10px;
